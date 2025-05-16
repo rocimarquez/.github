@@ -1,85 +1,90 @@
-# Código de Conducta convenido para Contribuyentes
+# Código de conducta de nuestro equipo
 
-## Nuestro compromiso
+## 1. Propósito
 
-Nosotros, como miembros, contribuyentes y administradores nos comprometemos a hacer de la participación en nuestra comunidad una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, minusvalía visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.
+Este documento define cómo cada equipo va a colaborar, comunicarse, resolver problemas y apoyarse durante el desarrollo del proyecto del curso **IIC2513 Tecnologías y Aplicaciones Web**. Su objetivo es que cada equipo converse y piense en situaciones que podrían llegar a ocurrir durante el semestre y que puedan abordarlas desde el respeto, la responsabilidad y la comprensión.
 
-Nos comprometemos a actuar e interactuar de maneras que contribuyan a una comunidad abierta, acogedora, diversa, inclusiva y sana.
 
-## Nuestros estándares
 
-Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:
 
-* Demostrar empatía y amabilidad ante otras personas
-* Respeto a diferentes opiniones, puntos de vista y experiencias
-* Dar y aceptar adecuadamente retroalimentación constructiva
-* Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, aprendiendo de la experiencia
-* Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general
+## 2. Alcance
 
-Ejemplos de comportamiento inaceptable:
+Aplica a todas las actividades relacionadas con el desarrollo del proyecto del curso, tales como:
+- Reuniones de planificación, diseño e implementación
+- Desarrollo y revisión de código
+- Escritura de documentación e implementación de las entregas
+- Interacción con el equipo docente, otros grupos del curso y entre estudiantes del equipo
 
-* El uso de lenguaje o imágenes sexualizadas, y aproximaciones o
-  atenciones sexuales de cualquier tipo
-* Comentarios despectivos (_trolling_), insultantes o derogatorios, y ataques personales o políticos
-* El acoso en público o privado
-* Publicar información privada de otras personas, tales como direcciones físicas o de correo
-  electrónico, sin su permiso explícito
-* Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un
-  entorno profesional
 
-## Aplicación de las responsabilidades
+## 3. Normas de Comunicación
 
-Los administradores de la comunidad son responsables de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomarán acciones apropiadas y correctivas de forma justa en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.
+> Cada cambio debe ser consultado por el equipo previamente.
+> Nadie debe ingresar a modificar alguna branch de otro del equipo, siempre se deben hacer copias del compañero y desde ahí avanzar.
+> Cualquier inquietud, siempre comunicarse con el equipo antes que con los ayudantes, motivando la unión y comunicación.
+> Cualquiera es libre de manifestar molestias entre el equipo, siempre con respeto.
+> Ocuparemos un lenguaje apto para los trabajos, sin discusiones y siempre optando por hablar.
 
-Los administradores de la comunidad tendrán el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, _commits_, código, ediciones de páginas de wiki, _issues_ y otras contribuciones que no se alineen con este Código de Conducta, y comunicarán las razones para sus decisiones de moderación cuando sea apropiado.
 
-## Alcance
+### Canal de comunicación principal
+> Nos comunicaremos por WhatsApp con el equipo y en telegram con el ayudante
 
-Este código de conducta aplica tanto a espacios del proyecto como a espacios públicos donde un individuo esté en representación del proyecto o comunidad. Ejemplos de esto incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no.
+### Reuniones de equipo 
+Nos reuniremos mínimo 1 vez a la semana para repartir tareas entre nosotros, también para reuniones con el ayudante serán 1 antes de la entrega y una después-
 
-## Aplicación
+### Cuándo trabajar en el proyecto
+> Trabajaremos todas las semanas, repartiendo tareas desde el inicio de la entrega, avanzaemos en conjunto hasta que las tareas se vuelvan independientes. En casos extremos, nos quedaremos lo que sea necesario para tener una entrega óptima.
 
-Instancias de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser reportadas a los administradores de la comunidad responsables del cumplimiento a través de [aaossa@ing.puc.cl](mailto:aaossa@ing.puc.cl). Todas las quejas serán evaluadas e investigadas de una manera puntual y justa.
+## 4. ¿Qué Haremos Cuando...?
 
-Todos los administradores de la comunidad están obligados a respetar la privacidad y la seguridad de quienes reporten incidentes.
+> [!IMPORTANT]
+> Para cada una de estas situaciones, deberán definir un paso a paso de las cosas que deberían hacer si la situación particular se presenta. Piénsenlo como una *checklist*, esto es un plan a seguir en caso de emergencia. Es importante que coloquen explícitamente quién realiza la acción (vean el ejemplo). Recuerden situaciones y experiencias similares y qué les hubiera gustado que ocurriera. La primera situación queda de ejemplo, pero pueden modificarla.
 
-## Guías de Aplicación
+### 4.1 Enfermedad o emergencia de salud
+> En caso de que uno de los miembros se enferme o no pueda trabajar en el proyecto del curso por razones de salud.
 
-Los administradores de la comunidad seguirán estas Guías de Impacto en la Comunidad para determinar las consecuencias de cualquier acción que juzguen como un incumplimiento de este Código de Conducta:
+1. Si **YO** me enfermo, avisaré a mi equipo lo antes posible. 
+2. **Yo** indicaré el tiempo estimado de ausencia  
+3. **Mi equipo** va a redistribuirse mis tareas temporalmente
+4. **Como equipo** avisaremos al ayudante del grupo para su consideración
+5. Si existe certificado médico, **YO** informaré al ayudante de bienestar y gestionar ante la DiPre
 
-### 1. Corrección
+### 4.2 Carga académica excesiva / Tope de evaluaciones
 
-**Impacto en la Comunidad**: El uso de lenguaje inapropiado u otro comportamiento considerado no profesional o no acogedor en la comunidad.
+1. Si **YO** tengo una entrega de otro curso un día de entrega de este proyecto avanzaré lo más posible en ambas entregas, si me veo en peligro de nota, conversaré con mi equipo para solicitar flexibilidad si es que los otros integrantes están con menos carga en ese momento.
+2. Esto aplicará paracada tipo de evaluación.
 
-**Consecuencia**: Un aviso escrito y privado por parte de los administradores de la comunidad, proporcionando claridad alrededor de la naturaleza de este incumplimiento y una explicación de por qué el comportamiento es inaceptable. Una disculpa pública podría ser solicitada.
+### 4.3 Indisponibilidad prevista (viajes, vacaciones)
+> En ocasiones, algún estudiante podría tener un viaje o evento previsto que le impida trabajar en el proyecto en algún momento del semestre. Conversen sobre eso: ¿tengo algo planificado que pueda impedir que trabaje algún o algunos días? En otras ocasiones hemos visto: viajes para asistir a matrimonios o competencias deportivas, participación en eventos de larga duración, o incluso por razones religiosas. Si no tienen esta indisponibilidad, pueden colocar eso: "Ninguno de los miembros de este equipo reportó tener alguna indisponibilidad prevista"
 
-### 2. Aviso
+1. Si **YO** tengo un viaje planificado durante lo que queda de semestre, avanzaré lo que más pueda antes de irme. Además de presentar momentos o tareas donde yo pueda contribuir durante mi viaje.
 
-**Impacto en la Comunidad**: Un incumplimiento causado por un único incidente o por una cadena de acciones.
+### 4.4 Emergencia personal no planificada
 
-**Consecuencia**: Un aviso con consecuencias por comportamiento prolongado. No se interactúa con las personas involucradas, incluyendo interacción no solicitada con quienes se encuentran aplicando el Código de Conducta, por un periodo especificado de tiempo. Esto incluye evitar las interacciones en espacios de la comunidad, así como a través de canales externos como las redes sociales. Incumplir estos términos puede conducir a una expulsión temporal o permanente.
+1. Si **YO** no puedo trabajar porque me pasó algo, lo comento con mi equipo antes de no decir nada.
+2. Si **YO** no puedo trabajar porque me pasó un accidente/problema familia/ salud mental o física/ comentar con el equipo para buscar apoyo y flexibilidad en las taresas.
 
-### 3. Expulsión temporal
+### 4.5 Retraso en entrega / Inclumplimiento de plazo
+> Sabemos que tienen la capacidad de desarrollar el proyecto de buena manera y obtener la mayor nota posible (sería injusto darles un proyecto que no esperamos que puedan completar), pero si por algún motivo no pudieran entregar todo a tiempo, ¿qué planean hacer?
 
-**Impacto en la Comunidad**: Una serie de incumplimientos de los estándares de la comunidad, incluyendo comportamiento inapropiado continuo.
+1. Si **como equipo** no tenemos el entregable listo para el día de la entrega conversaremos con el ayudante para plantearle nuestra situación, solicitar más plazo y entregar lo hecho si es que no es posible, para la prroxima entrega avanzar lo perdido en la anterior.
 
-**Consecuencia**: Una expulsión temporal de cualquier forma de interacción o comunicación pública con la comunidad durante un intervalo de tiempo especificado. No se permite interactuar de manera pública o privada con las personas involucradas, incluyendo interacciones no solicitadas con quienes se encuentran aplicando el Código de Conducta, durante este periodo. Incumplir estos términos puede conducir a una expulsión permanente.
+### 4.6 Persona no ubicable o contactable (no responde)
 
-### 4. Expulsión permanente
 
-**Impacto en la Comunidad**: Demostrar un patrón sistemático de incumplimientos de los estándares de la comunidad, incluyendo conductas inapropiadas prolongadas en el tiempo, acoso de individuos, o agresiones o menosprecio a grupos de individuos.
+1. Si **como equipo** no conseguimos respuesta de un miembro para asignar responsabilidades o confirmar que está progresando, haremos lo posible por contactarlo antes de tomar medidas con el equipo docente, si son reiteradas ocasiones, se optará por conversar con el ayudante. Pero siempre recurriremos a conversar antes de "acusar".
 
-**Consecuencia**: Una expulsión permanente de cualquier tipo de interacción pública con la comunidad del proyecto.
+### 4.7 Diferencias de opinión
+> Trabajar en grupo es difícil y es una habilidad que se sigue desarrollando más allá de la universidad incluso. Incluso si se conocieran y fueran muy amigos, es posible que tengan diferencias de opinión durante el desarrollo del proyecto. Imaginen que tienen visiones o ideas muy distintas, ¿cuál sería un buen proceso para llegar a un consenso?
 
-## Atribución
+1. Si **como equipo** no logramos llegar a un acuerdo sobre una decisión de diseño del proyecto, haremos votación de que es lo que prefiere el equipo, si es que no llegamos a un acuerdo, solicitar con el ayudante que opción sería mejor. Otra opción sería llegar a un acuerdo de ambos diseños, se puede identificar elementos importantes de ambos diseños y unirlos si es posible. Siempre con respeto al expresar la opinión.
 
-Este Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 2.0,
-disponible en https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html
+### 4.8 Riesgo de no completar el proyecto
+> La última entrega del proyecto del curso es reprobatoria. Planifíquense con esto en mente. Sin embargo, a veces existen situaciones que nos impiden cumplir con nuestras planificaciones (algunas ya mencionadas, otras no planificadas, a veces el proyecto es muy ambicioso, etc.). Si en algún punto creen que no alcanzan a completar la última entrega del proyecto dentro del plazo establecido, ¿qué piensan hacer?
 
-Las Guías de Impacto en la Comunidad están inspiradas en la [escalera de aplicación del código de conducta de Mozilla](https://github.com/mozilla/diversity).
+1. Si **como equipo** creemos que podríamos no llegar con el proyecto listo a la última entrega, solicitaremos ayuda al ayudante con más plazo o al ayudante de bienestar si es que creemos que nuestro trabajo del semestre estuvo bien y debido a distintas 
 
-[homepage]: https://www.contributor-covenant.org
+### 4.9 Manteniendo la integridad académica
+> Ya en la primera clase del curso hablamos de integridad académica (incluyendo cómo citar y cómo referenciar el uso de IA). ¿Cómo piensan mantener la integridad académica? Conversen sobre cómo piensan citar y referenciar el uso de código de fuentes externas, sobre cómo piensan utilizar IA durante el semestre y... respondan en su checklist lo más difícil: ¿qué harían si identifican código externo o de una IA que no ha sido referenciado por otro miembro de su equipo?
 
-Para respuestas a las preguntas frecuentes de este código de conducta, consulta las FAQ en
-https://www.contributor-covenant.org/faq. Hay traducciones disponibles en https://www.contributor-covenant.org/translations
+1. Si **YO** encuentro código que aparentemente fue desarrollado por una IA pero no se referenció, lo conversamos en el equipo, para poder encontrar una solución en conjunto y así no tener una falta a la integridad académica.
 
